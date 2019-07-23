@@ -26,6 +26,6 @@ Try to follow this pattern
 1. What is [REST](https://github.com/soutot/graphql-apollo-academy/issues/3)
 1. Understand HTTP requests
 1. [Koa vs Express](https://github.com/soutot/graphql-apollo-academy/issues/2)
-1. How to [build](https://github.com/soutot/graphql-apollo-academy/issues/1) a node server
+1. [Build](https://github.com/soutot/graphql-apollo-academy/issues/1) a node server
 1. What is GraphQL
 1. (Will add more later)
