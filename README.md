@@ -26,6 +26,6 @@ Try to follow this pattern
 1. Understand HTTP requests
 1. Koa vs Express
 1. How to build a node server
-1. What is REST
+1. What is [REST](https://github.com/soutot/graphql-apollo-academy/issues/3)
 1. What is GraphQL
 1. (Will add more later)
