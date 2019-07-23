@@ -2,9 +2,15 @@
 Repository to help people learning how to build a React + Apollo + GraphQL Fullstack application
 
 ### Issues
-The issues describes what you should study. 
+The materials to study will be available on the issues, so will be the reference to docs, articles, and more. 
 * ```to build``` labels are related to practical exercises.
 * ```documentation``` labels are related to theorical knowledge followed up by oficial docs links or articles
+* ```suggestion``` use this label to suggest a topic to be added in this repo
+
+Use the issues to share the links you have found about the related subject. Share your thoughts so everyone can learn from it.
+
+### Questions
+Use  ```question``` use this label to ask a question. Before asking any question, please make sure there isn't any open/closed issue that answers your question. 
 
 ### Building your solution
 Clone this project, create a branch with your username. All your code should be pushed under this branch. Open pull requests so the reviewers can discuss with you the solutions
