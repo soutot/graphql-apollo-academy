@@ -1,5 +1,5 @@
 # graphql-apollo-academy
-Repository to list steps to learn Apollo GraphQL
+Repository to help people learning how to build a React + Apollo + GraphQL Fullstack application
 
 ### Issues
 The issues describes what you should study. 
