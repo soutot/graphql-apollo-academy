@@ -7,7 +7,9 @@ The materials to study will be available on the issues, so will be the reference
 * ```documentation``` labels are related to theorical knowledge followed up by oficial docs links or articles
 * ```suggestion``` use this label to suggest a topic to be added in this repo
 
-Use the issues to share the links you have found about the related subject. Share your thoughts so everyone can learn from it.
+Use the issues to share the links you have found about the related subject. If needed new issues can be added with ```documentation``` tags.
+
+**Important**: Share your thoughts so everyone can learn from it.
 
 ### Questions
 Use  ```question``` use this label to ask a question. Before asking any question, please make sure there isn't any open/closed issue that answers your question. 
